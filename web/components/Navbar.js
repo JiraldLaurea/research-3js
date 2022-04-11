@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+import { useState, useEffect } from "react";
+>>>>>>> 3e046533ed7771fd17eb8a5cc27bf0374729553f
 import NavbarItem from "./NavbarItem";
 import {
     faHouse,
